@@ -35,3 +35,7 @@ inducible)**
 
 - If you do not find the sequence you want to work with, select the personalized option.
 - **Don't forget** to press the **OK button** at every stage.
+
+<a target="_blank" href="https://colab.research.google.com/github/gladyscavero/pyBrick-DNA">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
