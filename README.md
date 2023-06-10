@@ -2,7 +2,7 @@
 
 <a target="_blank" href="https://colab.research.google.com/github/gladyscavero/pyBrick-DNA">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a> 
+</a>
 
 > pyBrick-DNA is an interactive "open source" platform, which uses the Python programming language, in order to **automatically** build genetic expression components for **eukaryotic and prokaryotic** organisms. It also includes the option to build constructions of **CRISPR** (Clustered Regularly Interspaced Short Palindromic Repeats) editing systems for plants. For both cases, the graphic visualization of the genetic set and its download in **GenBank (.gb)** format is available, which allows exporting the sequences together with their annotations for later use on other platforms (ex. SnapGene or Benchling) without the need to carry out this process manually.
 
